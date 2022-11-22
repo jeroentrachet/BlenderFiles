@@ -1,0 +1,25 @@
+////////////////////////SHORTCUTS BLENDER///////////////////////////////////
+G					Move
+R					Rotate
+I 					insert keyframe
+X					delete
+P					seperate
+F					Fill
+L					Link (usefull for selecting parts of mesh)
+alt+I 				Clear the keyframe
+alt+E 				extrude faces (along Normals)
+shift+A 			Add
+shift+D 			duplicate
+cntr+r 				loop cut
+cntr+b 				Bevel
+shift+rightclick 	set cursor
+
+
+
+
+//////////////////////////TIPS BLENDER/////////////////////////////////////
+enable node wrangler in add-ons
+cntrl +right clik to cut nodes
+If there is something wrong, apply the scale by pressing cntr+a
+easy rig: click on mesh, then cntrl click on armature, then cntr+p -- armature deform, with automatic weight
+Loading complete texture with node-wrangler, cntr+shift+t in shading tab and go to map 
