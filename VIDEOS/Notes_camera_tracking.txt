@@ -1,0 +1,28 @@
+https://www.youtube.com/watch?v=CiO6NHgVIQ0
+
+Zet in cycles
+Adaptive sampling en denoising
+Belangrtijk: bij Film check transparent
+
+Motion tracking workspace
+open movie clip
+Set frame rate
+Klik op "Set Scene Frames" en "prefetch"
+
+Klik dan op "detect features" -> aaanpassen meer of minder maerkers kunnen en dan 
+cntrl+T om te beginnen tracken
+
+als tracking gedaan is -> hide de verloren markers met alt+D
+
+
+
+Als alles OK lijkt -> Ga naar tablad solve onder Track en vink "keyframe en focal length" aan
+Klik nu op "solve camera motion" (bleef lang op 0%staan en duurt efkes")
+
+Optimalisatie: klik op Clean tracks verhoog reprojection error , verwuijder de slechte markers en solve opnieuw (nu met keyframe af)
+
+Als het OK is-> klik op "Setup Tracking Scene"
+
+In de viewport als je door de camera kijkt dan zie je je video, Om nu de 3D objecten te zetten in fucntie van je video
+Selecteer bvb 3 markers op de grond en en klik dan op "Floor" bij orientation en kies 1 marker als origin
+Kies nu ook 2 markers naast elkaar en set scale 
